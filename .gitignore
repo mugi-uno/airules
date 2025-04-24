@@ -1,0 +1,15 @@
+# Deno
+.deno/
+.vscode/
+.DS_Store
+
+# Build output
+dist/
+
+# Testing
+test/
+.tmp/
+.ai-tmp/
+
+# Config
+.env
