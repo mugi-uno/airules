@@ -2,6 +2,8 @@
 
 A CLI tool for managing AI editor rule files
 
+![image](https://github.com/mugi-uno/airules/blob/main/docs/images/demo.gif?raw=true)
+
 ## Overview
 
 airules is a CLI tool that helps manage rule files for AI editors like Cursor and VS Code extensions. It lets you copy only the parts you need from your rule repository to where AI editors can read them.
