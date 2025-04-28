@@ -1,6 +1,6 @@
 {
   "name": "@mugi-uno/airules",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "MIT",
   "description": "A CLI tool for managing AI editor rule files",
   "exports": "./airules.ts",

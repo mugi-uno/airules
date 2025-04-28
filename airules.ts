@@ -13,7 +13,7 @@ import { generateCommand } from "./src/commands/generate.ts";
 // Define main command
 const mainCommand = new Command()
   .name("airules")
-  .version("0.1.0")
+  .version("0.1.2")
   .description("CLI tool for managing AI editor rule files")
   // Add commands
   .command("setup", setupCommand)
